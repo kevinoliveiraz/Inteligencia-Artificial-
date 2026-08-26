@@ -409,16 +409,3 @@ Dados + arquitetura + computação
       Teste e validação humana
 ```
 
-## Resumo prático
-
-- A IA generativa produz conteúdo novo a partir de padrões aprendidos.
-- LLMs são modelos especializados em linguagem.
-- O treinamento ajusta parâmetros por meio da previsão de tokens.
-- O pós-treinamento prepara o modelo para seguir instruções.
-- A resposta é criada token por token.
-- O modelo pode produzir informações incorretas de forma convincente.
-- Ferramentas externas permitem acessar informações e executar ações.
-- A janela de contexto limita o que pode ser considerado ao mesmo tempo.
-- Exemplos e instruções permitem adaptação temporária durante a conversa.
-- Mais autonomia exige mais controle, testes e responsabilidade.
-- A IA acelera o trabalho, mas a decisão final continua sendo humana.
