@@ -554,18 +554,3 @@ Humano avalia risco e consequência
 Decisão ou ação final
 ```
 
-## Resumo prático
-
-- A IA generativa trabalha bem com linguagem, padrões e transformação de informações.
-- Versatilidade não equivale a especialização.
-- Uma resposta convincente ainda pode estar errada.
-- Conhecimento interno pode estar desatualizado.
-- Ferramentas externas ampliam capacidades e riscos.
-- A janela de contexto limita o que o modelo considera.
-- Raciocínio aparente não garante conclusão correta.
-- O contexto do processo precisa vir do usuário.
-- Quanto maior o impacto do erro, maior deve ser a validação.
-- Autonomia deve crescer apenas quando existem limites, testes e possibilidade de reversão.
-- Dados privados exigem controle e autorização.
-- A IA contribui com velocidade e possibilidades.
-- Humanos continuam responsáveis por contexto, discernimento, ética e decisão.
